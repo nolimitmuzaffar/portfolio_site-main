@@ -1,0 +1,17 @@
+{% extends 'portfolio/base.html' %}
+
+{% block content %}
+
+<h1>Fantasy Basketball Blogs</h1>
+<h6> {{ blogs.count }} available blogs to read{{ blogs.count|pluralize }} </h6>
+
+{% for blog in blogs %}
+
+    <div style="border: 3px solid red; border-radius: 25px; padding-bottom: 10px; text-align: center;">
+    <a href="{% url 'blog:detail' blog.id %}"><h2 style="color:white; padding-top: 20px;">{{ blog.title }}</h2></a>
+    <h5>{{ blog.date|date:'M d Y' }}</h5>
+    <p>{{ blog.description|striptags|truncatechars:100 }}</p>
+    </div>
+{% endfor %}
+
+{% endblock %}

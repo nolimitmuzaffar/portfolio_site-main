@@ -1,0 +1,24 @@
+  .portfolio {
+    background-color: white;
+    padding: 0.5em 0.25em;
+    margin-top: 0px;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-bottom: 0px;
+  }
+
+  h2 {
+      margin-left: 15px;
+  }
+  .github {
+    display: block;
+    text-align: center;
+  }
+  .linkedin-logo {
+    height: 4em;
+  }
+  .github-logo {
+    height: 4em;
+  }
+  
+  
