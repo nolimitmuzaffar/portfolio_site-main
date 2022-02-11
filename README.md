@@ -1,40 +1,46 @@
-# Portfolio_site
-``` Projects Justin Adames has worked on throughout the Tech Talent Pipeline bootcamp.```
+``` Few of the rojects worked on during the Tech Talent Pipeline winter bootcamp 2022```
+
 ---
-![](media/portfolio/images/relaxer.gif)
-# Relaxer (frontend project)
-- A project to calm you down and practice breathing exercises.
-  > Hosted by GitHub - https://host-projects.github.io/Relaxer/
+# Double Click (frontend project)
+- Double click the image for a like and see the like count
   > 
-  > GitHub repo - https://github.com/jadames03/frontend_projects/tree/main/relaxer
+  > GitHub repo - https://github.com/nolimitmuzaffar/double-click-like-app
+![](media/portfolio/images/doubleclick_wxYyzK0.gif)
+
 ---
-![](media/portfolio/images/the_choice.gif)
-# The Choice (frontend project)
-- A project with sweet slide-in animations showcasing a PS5 on one side and XBOX on the other.
-  > Hosted by GitHub - https://host-projects.github.io/The-Choice/
+
+# Drink Water (frontend project)
+- Measure your daily water intake with cool visuals
   >
-  > GitHub repo - https://github.com/jadames03/frontend_projects/tree/main/the_choice 
+  > GitHub repo - https://github.com/nolimitmuzaffar/drink-water-app
+![](media/portfolio/images/drinkwater_QhB6RSM.gif) 
+
 ---
-![](media/portfolio/images/foodtalk.gif)
-# Food talk (django project)
-- Variety of recipes for breakfast, lunch, dinner and dessert. These delicious, flavorful recipes were selected by the group members of this project!
-  > GitHub repo - https://github.com/TTP-Group3/food-talk
+
+# Countdown (flask project)
+- Countdown to the eradication of COVID-19 pandemic
+  > GitHub repo - https://github.com/nolimitmuzaffar/countdown
+![](media/portfolio/images/countdown_aptMm7x.gif)
+
 ---
-![](media/portfolio/images/lightdarkmode.gif)
+
+# Dad Jokes (frontend project)
+- Generates hilarious dad jokes
+  >
+  > GitHub repo - https://github.com/nolimitmuzaffar/dad_jokes
+![](media/portfolio/images/dadjokes_RLQ69t1.gif)
+
+---
+
+# 3D Boxes (frontend project)
+- Displays an image in a split box-format as well as a whole picture
+  >
+  > GitHub repo - https://github.com/nolimitmuzaffar/3d-boxes-background-app
+![](media/portfolio/images/3dboxes_QZ1h5Hf.gif)
+
+---
+
 # Light Dark Mode (frontend project)
-- Toggle between a light/dark mode feature!
-  > Hosted by GitHub - https://host-projects.github.io/Light-Dark-Mode/
-  >
-  > GitHub repo - https://github.com/jadames03/frontend_projects/tree/main/light_dark_mode
----
-![](media/portfolio/images/pokemon.gif)
-# Pokemon (frontend project)
-- A project that fetches data from an API to showcase Pokemon.
-  > Hosted by GitHub - https://host-projects.github.io/Pokedex/
-  >
-  > GitHub repo - https://github.com/jadames03/frontend_projects/tree/main/pokedex
----
-![](media/portfolio/images/thethrone.gif)
-# The Throne (flask project)
-- A blog site to provide users with bathroom-based entertainment from anywhere and everywhere!
-  > GitHub repo - https://github.com/jadames03/flask-blog-site
+- Template site with a dark mode feature
+  > GitHub repo - https://github.com/nolimitmuzaffar/light-dark-mode-app
+![](media/portfolio/images/lightdarkmode.gif)
